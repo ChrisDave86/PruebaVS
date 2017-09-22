@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoGIT
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
     }
 }
