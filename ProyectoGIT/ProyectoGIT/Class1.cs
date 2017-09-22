@@ -8,5 +8,6 @@ namespace ProyectoGIT
 {
     class Class1
     {
+        public void MetodoNuevo() => Console.WriteLine("Este es el constructor");
     }
 }

@@ -12,6 +12,10 @@ namespace ProyectoGIT
         {
             Console.WriteLine("Hello World!");
 
+            Class1 clase = new Class1();
+
+            clase.MetodoNuevo();
+
             Console.ReadKey();
         }
 
