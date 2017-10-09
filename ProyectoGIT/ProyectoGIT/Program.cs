@@ -7,13 +7,14 @@ using System.Collections;
 
 namespace ProyectoGIT
 {
-    class Program
+    class Program 
     {
         enum Colores { blanco, negro, rojo, azul, gris, amarillo, verde };
         enum TipoHeladera { Congelador, Frigorifico };
         enum AlimentacionCocina { Electrica, Gas };
         static void Main(string[] args)
         {
+            Console.Write("nuevo programa");// esta es mi pequeña modificacion al programa Miriam
             Program aplicacion = new Program();
             aplicacion.Inicio();
         }
